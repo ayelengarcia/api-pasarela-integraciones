@@ -1,0 +1,12 @@
+[submodule "Server_api_sifaco"]
+	path = Server_api_sifaco
+	url = https://github.com/ayelengarcia/Server_api_sifaco
+[submodule "server_BDC"]
+	path = server_BDC
+	url = https://github.com/ayelengarcia/server_BDC.git
+[submodule "Server_pasarela"]
+	path = Server_pasarela
+	url = https://github.com/ayelengarcia/Server_pasarela.git
+[submodule "Scripts-botmaker-y-otros"]
+	path = Scripts-botmaker-y-otros
+	url = https://github.com/ayelengarcia/Scripts-botmaker-y-otros.git
