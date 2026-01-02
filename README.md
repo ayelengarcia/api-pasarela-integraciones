@@ -39,7 +39,8 @@ La solución fue utilizada para integrar servicios internos con **scripts y fluj
 
 ## 🀄 Diagrama
 
-<img width="750" height="649" alt="apipasarela" src="https://github.com/user-attachments/assets/c4433527-e0a7-4929-b5a8-daf79d7e8d95" />
+<img width="556" height="359" alt="pasarela" src="https://github.com/user-attachments/assets/12613e75-076c-4638-95c6-f73748f8bacd" />
+
 
 ---
 
